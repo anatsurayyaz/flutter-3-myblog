@@ -1,46 +1,21 @@
-# Tutorial - Feed App with API (with Cubit and dio)
+# Task: My Blog (API)
 
-Feed Users via API and display in List with flutter for mobile with Codetour for tutorial purpose.
+## Reload Data
 
-<p align="center">
-    <img src="docs/overview.png">
-    <img src="docs/result.png" height="350px">
-</p>
+![Screenshot 2024-11-13 142111](https://github.com/user-attachments/assets/bbb643c8-9053-48d5-af39-8d8fd0ced559)
 
-## What's covered
 
-- The basics fetch data via API works (with [dio](https://pub.dev/packages/dio))
-- How to Convert Json to Model
-- Creating list layout with ListTile
-- Navigate between 2 Screen, user list and user detail screen with Navigator.push
-- How to use ListTile interaction
+## User List
 
-## Not mentioned
+![Screenshot 2024-11-13 142130](https://github.com/user-attachments/assets/7cff6505-8039-48a7-a5fa-8057a47a456b)
 
-- Reference Material from: https://dev.to/dev-vickie/fetching-apis-with-cubits-in-flutter-b8f
-  - Using Cubit
-  - Add user detail screen
-- Target: Mobile
-- Including Code Tour
-  - Each topic has spesific commit
-  - Script to automatically reclone with spesific commit, see on [vscode-open-commit.sh](./script/vscode-open-commit.sh)
 
-## How to use
+## Delete Data
 
-- Clone repository
-- Open with VSCode, Flutter SDK and Mobile (Android or iOS) SDK
-- Enable Flutter and Dart VSCode extension
-- Enable Codetour VSCode extension (https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
-- Follow Codetour topic and step, each topic has script to automatically reclone with spesific commit.
+![Screenshot 2024-11-13 142143](https://github.com/user-attachments/assets/029d2b32-b45a-470b-8a88-aaa5b1d4fcaf)
 
-## Support
 
-If you have any questions or encounter any issues, feel free to open an issue and we will assist you in resolving them.
+## Detail Page
 
-## Contribute
+![Screenshot 2024-11-13 142208](https://github.com/user-attachments/assets/dd437c9a-fab2-422a-861f-a1cdab501f20)
 
-Feel free to contribute, don't forget to mention if needed
-
-## Author and Contributor
-
-- [@raditzlawliet](https://github.com/raditzlawliet/)
